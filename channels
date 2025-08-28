@@ -1,1 +1,23 @@
-
+[
+  {
+    name: "Kapamilya Online Live",
+    logo: "https://yt3.googleusercontent.com/ytc/AIdro_lsT-b6Oht3l9M9040h4ga7nNrh5CBOqrx-Hncsccq5bl8=s160-c-k-c0x00ffffff-no-rj",
+    link: "<iframe src='https://www.youtube.com/embed/live_stream?channel=UCstEtN0pgOmCf02EdXsGChw&autoplay=1' allowfullscreen></iframe>"
+  },
+  {
+    name: "Kapuso Stream",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/6/65/Kapuso_Stream_logo.png",
+    link: "<iframe src='https://www.youtube.com/embed/live_stream?channel=UCKL5hAuzgFQsyrsQKgU0Qng&autoplay=1' allowfullscreen></iframe>"
+  },
+  {
+    name: "Eat Bulaga TVJ",
+    logo: "https://yt3.googleusercontent.com/LEJiad-8tC5St_L8zMg-jWvZYUD9dYJ2g539wqlRCxpepPi9JgQWRbattOy3aSUh_3PPWcSc=s160-c-k-c0x00ffffff-no-rj",
+    link: "<iframe src='https://www.youtube.com/embed/live_stream?channel=UCby04dl3oIxkDoZil8xP_FA&autoplay=1' allowfullscreen></iframe>"
+  },
+  {
+    name: "TV 5",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/4/4f/TV5_%28Philippines%29_logo.svg",
+    link: "<iframe src='https://www.youtube.com/embed/IhfiDhetJrE?autoplay=1&mute=1' allowfullscreen></iframe>"
+  }
+  
+];
